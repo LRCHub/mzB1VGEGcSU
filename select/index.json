@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Lucid Dreams",
+  "base_artist": "ジュース・ワールド",
+  "createdAt": "2026-02-08T07:30:07.313243Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lucid Dreams",
+      "artist": "Mat Zo",
+      "has_synced": true,
+      "path": "select/01_Lucid_Dreams_Mat_Zo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lucid Dreams",
+      "artist": "Franz Ferdinand",
+      "has_synced": false,
+      "path": "select/02_Lucid_Dreams_Franz_Ferdinand.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lucid Dreams",
+      "artist": "Franz Ferdinand",
+      "has_synced": true,
+      "path": "select/03_Lucid_Dreams_Franz_Ferdinand.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lucid Dreams",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/04_Lucid_Dreams_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lucid Dreams (Forget Me)",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/05_Lucid_Dreams_(Forget_Me)_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lucid Dreams (feat. Lil Uzi Vert) - Remix",
+      "artist": "Juice WRLD feat. Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/06_Lucid_Dreams_(feat._Lil_Uzi_Vert)_-_Remix_Juice_WRLD_feat._Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lucid Dreams (Remix)",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/07_Lucid_Dreams_(Remix)_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lucid Dreams",
+      "artist": "Cherry Glazerr",
+      "has_synced": false,
+      "path": "select/08_Lucid_Dreams_Cherry_Glazerr.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lucid Dreams",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/09_Lucid_Dreams_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lucid Dreams.",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/10_Lucid_Dreams._Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lucid Dreams (PO Clean Edit)",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/11_Lucid_Dreams_(PO_Clean_Edit)_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lucid Dreams",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/12_Lucid_Dreams_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lucid Dreams (remix)",
+      "artist": "Juice WRLD feat. Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/13_Lucid_Dreams_(remix)_Juice_WRLD_feat._Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lucid Dreams",
+      "artist": "Kim Carnes",
+      "has_synced": true,
+      "path": "select/14_Lucid_Dreams_Kim_Carnes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lucid Dreams",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/15_Lucid_Dreams_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lucid Dreams (Remix)",
+      "artist": "Juice WRLD",
+      "has_synced": false,
+      "path": "select/16_Lucid_Dreams_(Remix)_Juice_WRLD.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lucid Dreams",
+      "artist": "Juice WRLD",
+      "has_synced": false,
+      "path": "select/pl_01_Lucid_Dreams_Juice_WRLD.txt"
+    }
+  ]
+}
